@@ -1,2 +1,2 @@
-# Tancredo-2b-js
+# Tancredo-2B-JS
 Exercicio de javascript para HTML e CSS
